@@ -7,6 +7,7 @@ end
 
 def state_log(star_date)
   puts "/Captain's Log, #{star_date} /"
+  return "/Captain's Log, #{star_date} /"
 end
 
 def engage
